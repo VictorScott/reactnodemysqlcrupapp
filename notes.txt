@@ -1,0 +1,8 @@
+server
+create directory then cd to it then
+npm install express mysql cors nodemon
+
+frontend
+
+npm create vite@latest frontend
+npm install axios bootstrap react-router-dom
